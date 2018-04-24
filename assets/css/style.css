@@ -2,6 +2,38 @@ body {
     /* background: url("../images/star-wars-stock.jpg"); */
 }
 
+.topic-btn {
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    border-radius: 100px;
+}
+
+#add-topic {
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 10px;
+}
+
+.gifDiv {
+    /* display: inline; */
+    float: left;
+    padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
 #titleBlock {
     background: #232265;
     border-radius: 25px;
